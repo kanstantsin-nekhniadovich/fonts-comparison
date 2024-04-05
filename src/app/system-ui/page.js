@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <h1> IBM Plex Sans vs Segoe UI (Windows)</h1>
+      <h1> IBM Plex Sans vs System UI Fonts</h1>
       <p>Font-size: 14px</p>
       <div className="holder px14">
         <div className="block">
