@@ -2,13 +2,6 @@
   display: flex;
 }
 
-* {
-  font-weight: 400;
-  font-style: normal;
-  font-size: 16px;
-  line-height: 24px;
-}
-
 .block {
   padding: 5px;
   border: 2px solid black;
@@ -44,4 +37,12 @@
 
 .Roboto {
   font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.px14 {
+  font-size: 14px;
+}
+
+.px20 {
+  font-size: 20px;
 }
