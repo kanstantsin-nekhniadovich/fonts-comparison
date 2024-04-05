@@ -2,6 +2,10 @@
   display: flex;
 }
 
+* {
+  line-height: 1em;
+}
+
 .block {
   padding: 5px;
   border: 2px solid black;
