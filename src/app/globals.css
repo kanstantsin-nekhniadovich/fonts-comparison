@@ -26,7 +26,7 @@
 }
 
 .ibmPlex {
-  font-family: "IBM Plex Sans", sans-serif;
+  font-family: var(--font-ibm-plex-sans), sans-serif;
 }
 
 .system-ui {
