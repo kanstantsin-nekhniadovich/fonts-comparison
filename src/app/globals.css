@@ -11,6 +11,7 @@
   border: 2px solid black;
   margin-right: 10px;
   margin-bottom: 10px;
+  flex: 0 0 50%;
 }
 
 .block p {
@@ -32,6 +33,35 @@
 .system-ui {
   font-family: system-ui, sans-serif;
 }
+
+.arial {
+  font-family: Arial, sans-serif;
+}
+
+.helvetica {
+  font-family: Helvetica, sans-serif;
+}
+
+.times {
+  font-family: 'Times New Roman', sans-serif;
+}
+
+.courier {
+  font-family: 'Courier New', sans-serif;
+}
+
+.georgia {
+  font-family: Georgia, sans-serif;
+}
+
+.verdana {
+  font-family: Verdana, sans-serif;
+}
+
+.trebuchet {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
 
 .SegoeUI {
   font-family: "Segoe UI", Helvetica, Arial, sans-serif, "Segoe UI Emoji",
